@@ -5,7 +5,7 @@ import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 function Display() {
   return (
-    <div className="display-image">
+    <div className="display-image shadow">
       <img
         className="display-images"
         src="https://cdnprod.mafretailproxy.com/assets/images/BLN_NOV_ICON_1_4fecbb77b1.png"

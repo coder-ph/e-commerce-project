@@ -10,7 +10,7 @@ function Filter({ setCategory }) {
 
   
   return (
-    <div className="category">
+    <div className="category shadow">
       <select
         className="form-select"
         multiple
