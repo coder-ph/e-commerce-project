@@ -4,6 +4,7 @@ import ItemCard from "../Components/ItemCard";
 import NavBar from "./NavBar";
 import ItemSearch from "../Components/ItemSearch";
 import ItemForm from "../Components/ItemForm";
+import Display from "../Components/Display";
 
 function Home() {
   const [items, setItems] = useState([]);
@@ -21,6 +22,7 @@ function Home() {
   return (
     <div>
       <NavBar />
+      <Display />
       <ItemSearch itemSearch={itemSearch} setItemSearch={setItemSearch} />
       <ItemList items={items} itemSearch={itemSearch} setItems={setItems} />
       
