@@ -13,6 +13,11 @@ function ItemList({ items, itemSearch, setItems}) {
     const updateItems = items.filter((item) =>item.id !== deletedItem.id)
     setItems(updateItems)
    }
+
+   function handleUpdatedItems(updatedItem){
+    const updatedItems = items.map((item) => item.id === updatedItem.id? updatedItem:item)
+    setItems(updatedItems)
+   }
   return (
     <div>
       <div className="my-item">
@@ -25,8 +30,10 @@ function ItemList({ items, itemSearch, setItems}) {
             image={item.image}
             id = {item.id}
             item = {item}
+            items = {items}
             setItems= {setItems}
             onDeleteItem = {handleDeleteItem}
+            onUpdateItem = {handleUpdatedItems}
           />
         ))}
       </div>
