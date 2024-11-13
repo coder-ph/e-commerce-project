@@ -3,11 +3,11 @@ import ItemCard from "./ItemCard";
 import ItemSearch from "./ItemSearch";
 import "../../src/App.css";
 
-function ItemList({ items, itemSearch, setItems}) {
+function ItemList({ items,  category,itemSearch, setItems}) {
 
-   const filteredItems = items.filter((item) =>
-     item.name.toLowerCase().includes(itemSearch.toLowerCase())
-   );
+  //  const filteredItems = items.filter((item) =>
+  //    item.name.toLowerCase().includes(itemSearch.toLowerCase())
+  //  );
 
    function handleDeleteItem(deletedItem) {
     const updateItems = items.filter((item) =>item.id !== deletedItem.id)
@@ -18,6 +18,12 @@ function ItemList({ items, itemSearch, setItems}) {
     const updatedItems = items.map((item) => item.id === updatedItem.id? updatedItem:item)
     setItems(updatedItems)
    }
+
+   const filteredItems = items.filter(
+     (item) =>
+       item.name.toLowerCase().includes(itemSearch.toLowerCase()) &&
+       (category === "All" || item.category === category)
+   );
   return (
     <div>
       <div className="my-item">

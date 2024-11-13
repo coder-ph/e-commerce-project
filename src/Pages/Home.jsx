@@ -5,10 +5,12 @@ import NavBar from "./NavBar";
 import ItemSearch from "../Components/ItemSearch";
 import ItemForm from "../Components/ItemForm";
 import Display from "../Components/Display";
+import Filter from "../Components/Filter";
 
 function Home() {
   const [items, setItems] = useState([]);
   const [itemSearch, setItemSearch] = useState("");
+  const [category, setCategory] = useState('All')
   
 
   useEffect(() => {
@@ -17,15 +19,18 @@ function Home() {
       .then((items) => setItems(items));
   }, []);
 
+ 
+
   
   
   return (
     <div>
       <NavBar />
       <Display />
+
       <ItemSearch itemSearch={itemSearch} setItemSearch={setItemSearch} />
-      <ItemList items={items} itemSearch={itemSearch} setItems={setItems} />
-      
+      <Filter category={category} setCategory={setCategory}/>
+      <ItemList items={items} category={category} itemSearch={itemSearch} setItems={setItems} />
     </div>
   );
 }

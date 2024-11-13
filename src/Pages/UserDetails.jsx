@@ -7,7 +7,9 @@ function UserDetails() {
       <header>
         <NavBar />
       </header>
-      <h1>Sign up for free delivery</h1>
+      <div className="shadow-lg p-3 mb-5 bg-body rounded">
+        <h1>Sign up for free delivery</h1>
+      </div>
     </div>
   );
 }

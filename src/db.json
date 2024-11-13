@@ -5,7 +5,7 @@
       "name": "Wireless Bluetooth Earbuds",
       "price": 49.99,
       "category": "Electronics",
-      "image": "https://i.pinimg.com/236x/c6/c8/f6/c6c8f63417af9df5fe37331e5a24c9e3.jpg",
+      "image": "https://i.pinimg.com/236x/36/03/d2/3603d235a764bdb40428173c81f1e156.jpg",
       "shortDescription": "Compact and powerful wireless earbuds with clear sound.",
       "detailedDescription": "Experience high-quality sound with these wireless Bluetooth earbuds. Perfect for commuting, workouts, or relaxing, they feature noise-canceling capabilities and a long-lasting battery. Designed to be comfortable and durable, they’re ideal for everyday use, and the portable charging case keeps you powered on the go.",
       "highlights": [
@@ -16,11 +16,41 @@
       ]
     },
     {
+      "id": "3",
+      "name": "Smart LED Light Bulb",
+      "price": 12.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/bc/5c/c0/bc5cc09f01e4a9f5e020cf281a0bea37.jpg",
+      "shortDescription": "Smart bulb with adjustable colors and brightness.",
+      "detailedDescription": "Control your home lighting with ease using this smart LED light bulb. Compatible with most smart home systems, it allows you to adjust brightness and colors through an app or voice commands. Create the perfect ambiance for any room and save energy with its long-lasting design.",
+      "highlights": [
+        "16 million colors",
+        "Energy efficient",
+        "App controlled",
+        "Compatible with Alexa and Google Home"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Yoga Mat",
+      "price": 25.99,
+      "category": "Sports & Outdoors",
+      "image": "https://i.pinimg.com/236x/b7/47/30/b74730eed36cc7a5c97c2220249c0fee.jpg",
+      "shortDescription": "Non-slip, thick yoga mat for comfort and stability.",
+      "detailedDescription": "Enjoy your yoga practice with this extra-thick, non-slip mat. Designed for durability and comfort, it provides the perfect cushioning for all levels. Whether you’re doing yoga, pilates, or stretching, this mat supports your body while preventing slips and discomfort.",
+      "highlights": [
+        "Non-slip surface",
+        "Thick cushioning",
+        "Eco-friendly material",
+        "Lightweight and portable"
+      ]
+    },
+    {
       "id": "5",
       "name": "Portable Charger",
       "price": 29.99,
       "category": "Electronics",
-      "image": "https://i.pinimg.com/236x/f6/7e/97/f67e97c3de9419773c75b16bd11579f7.jpg",
+      "image": "https://i.pinimg.com/236x/64/68/0f/64680f724bd445c97b06887bac8eece5.jpg",
       "shortDescription": "High-capacity portable charger for on-the-go power.",
       "detailedDescription": "Keep your devices powered with this compact and powerful portable charger. Equipped with multiple USB ports, it’s compatible with most devices and can charge your phone, tablet, or camera quickly and efficiently. Ideal for travel or everyday use, you’ll never worry about running out of battery again.",
       "highlights": [
@@ -35,7 +65,7 @@
       "name": "Ceramic Coffee Mug",
       "price": 14.99,
       "category": "Home & Kitchen",
-      "image": "https://i.pinimg.com/236x/02/6b/8a/026b8ab46a86d939e82cc0f4156d61f1.jpg",
+      "image": "https://i.pinimg.com/236x/20/d6/80/20d6801182f1fce952aeba01e50fc39d.jpg",
       "shortDescription": "Durable, stylish ceramic coffee mug.",
       "detailedDescription": "Start your day with this stylish ceramic coffee mug. It’s microwave and dishwasher safe, perfect for your morning coffee or tea. The comfortable handle and elegant design make it a pleasure to use and an attractive addition to any kitchen.",
       "highlights": [

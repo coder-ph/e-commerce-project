@@ -39,7 +39,7 @@ function ItemCard({onUpdateItem, name, price, image, sdescript, id, onDeleteItem
         const {name, value}= e.target; setEditedItem((prev) => ({...prev, [name]: value}))
     }
   return (
-    <div className="cards">
+    <div className="cards shadow-lg p-3 mb-5 bg-body rounded">
       <div>
         <img src={image} alt={name} />
         <h3>${price}</h3>
@@ -63,9 +63,11 @@ function ItemCard({onUpdateItem, name, price, image, sdescript, id, onDeleteItem
           required
         />
         <br></br>
-        <button>Edit</button>
-      </form>
-      <button onClick={handleDelete}>Delete</button>
+        <button className="shadow btn">Edit</button>
+      </form>{" "}
+      <button className="btn shadow" onClick={handleDelete}>
+        Delete
+      </button>
     </div>
   );
 }

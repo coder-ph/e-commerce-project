@@ -49,52 +49,77 @@ function ItemForm({ items, setItems, id }) {
   return (
     <div>
       <NavBar />
-      <h1>Add New Item to the Catalogue</h1>
-      <form onSubmit={handleSubmit}>
-        <input
-          onChange={handleChange}
-          type="text"
-          name="name"
-          placeholder="Enter item name"
-        />
-        <input
-          onChange={handleChange}
-          type="number"
-          name="price"
-          placeholder="Enter the price of the item"
-        />
-        <input
-          onChange={handleChange}
-          name="category"
-          type="text"
-          placeholder="Enter the category of the item"
-        />
-        <input
-          onChange={handleChange}
-          name="image"
-          type="Url"
-          placeholder="Enter the url of the item"
-        />
-        <input
-          onChange={handleChange}
-          type="text"
-          name="shortDescription"
-          placeholder="Enter a short description of the item"
-        />
-        <input
-          onChange={handleChange}
-          type="text"
-          name="detailedDescription"
-          placeholder="Enter detailed description of the item"
-        />
-        <input
-          onChange={handleChange}
-          type="text"
-          name="highlights"
-          placeholder="Enter the key highlights of the item"
-        />
-        <button className="btn btn-warning" type="submit">Submit Item</button>
-      </form>
+      <div className="shadow-lg p-3 mb-5 bg-body rounded promo">
+        <h1>Add new item to the catalogue</h1>
+        <form onSubmit={handleSubmit}>
+          <input
+            className="input"
+            onChange={handleChange}
+            type="text"
+            name="name"
+            placeholder="Enter item name"
+          />
+          <br />
+          <br />
+          <input
+            className="input"
+            onChange={handleChange}
+            type="number"
+            name="price"
+            placeholder="Enter the price of the item"
+          />
+          <br />
+          <br />
+          <input
+            className="input"
+            onChange={handleChange}
+            name="category"
+            type="text"
+            placeholder="Enter the category of the item"
+          />
+          <br />
+          <br />
+          <input
+            className="input"
+            onChange={handleChange}
+            name="image"
+            type="Url"
+            placeholder="Enter the url of the item"
+          />
+          <br />
+          <br />
+          <input
+            className="input"
+            onChange={handleChange}
+            type="text"
+            name="shortDescription"
+            placeholder="Enter a short description of the item"
+          />
+          <br />
+          <br />
+          <input
+            className="input"
+            onChange={handleChange}
+            type="text"
+            name="detailedDescription"
+            placeholder="Enter detailed description of the item"
+          />
+          <br />
+          <br />
+          <input
+            className="input"
+            onChange={handleChange}
+            type="text"
+            name="highlights"
+            placeholder="Enter the key highlights of the item"
+          />
+          <br />
+          <br />
+          <button className="btn btn-primary shadow" type="submit">
+            Submit Item
+          </button>
+        </form>
+      </div>
     </div>
   );
 }

@@ -2,16 +2,41 @@ import React from 'react'
 import "../../src/App.css";
 import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
+
 function Display() {
   return (
-    <div className="bg-dark  display-image">
+    <div className="display-image">
       <img
         className="display-images"
         src="https://cdnprod.mafretailproxy.com/assets/images/BLN_NOV_ICON_1_4fecbb77b1.png"
         alt="shopping-image"
-        height='70px'
+        height="70px"
       />
-      <h2>Great Quality! Lower Prices!!</h2>
+      <h2>Shopping Here May Lead to Impromptu Dance Parties!!</h2>
+      <p>
+        <img
+          src="src/assets/person_39dp_5985E1_FILL0_wght400_GRAD0_opsz40.svg"
+          alt="shopping cart"
+          width="42px"
+        />
+        Account
+      </p>
+      <p>
+        <img
+          src="src/assets/shopping_cart_checkout_24dp_5985E1_FILL0_wght400_GRAD0_opsz24.svg"
+          alt="shopping cart"
+          width="42px"
+        />
+        Cart
+      </p>
+      <p>
+        <img
+          src="src/assets/help_39dp_5985E1_FILL0_wght400_GRAD0_opsz40.svg"
+          alt="shopping cart"
+          width="42px"
+        />
+        Help
+      </p>
     </div>
   );
 }
