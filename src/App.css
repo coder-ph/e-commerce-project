@@ -42,7 +42,7 @@ background-color: white;
 
 }
 .display-image h2{
-  padding-left: 200px;
+  padding-left: 0px;
   padding-top: 30px;
   color: black;
   font-weight:700;
@@ -111,7 +111,7 @@ background-color: white;
 
 .category{
   position: absolute;
-  top: 220px;
+  top: 230px;
   left: 150px;
   max-width: 1200px;
 }
