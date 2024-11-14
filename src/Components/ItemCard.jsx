@@ -9,30 +9,30 @@ function ItemCard({onUpdateItem, name, price, image, sdescript, id, onDeleteItem
         })
      function handleDelete() {
         console.log(id)
-        fetch(`http://localhost:3000/items/${id}`,{
-            method: 'DELETE',
-            headers:{
-                "Content-Type": "Application/json"
-            }
+        fetch(`https://json-62e3.onrender.com/items/${id}`, {
+          method: "DELETE",
+          headers: {
+            "Content-Type": "Application/json",
+          },
         })
-        .then(r=> r.json())
-        .then(()=> onDeleteItem(item));
+          .then((r) => r.json())
+          .then(() => onDeleteItem(item));
      }
 
     function handleEdit(e){
         e.preventDefault()
         console.log(item ,'edited')
-        fetch(`http://localhost:3000/items/${id}`,{
-            method: 'PATCH',
-            headers:{
-                "Content-Type": "Application/json"
-            },
-            body:JSON.stringify(editedItem)
+        fetch(`https://json-62e3.onrender.com/items/${id}`, {
+          method: "PATCH",
+          headers: {
+            "Content-Type": "Application/json",
+          },
+          body: JSON.stringify(editedItem),
         })
-        .then((r)=>r.json())
-        .then((updatedItem)=>{ onUpdateItem(updatedItem)
-           
-        });
+          .then((r) => r.json())
+          .then((updatedItem) => {
+            onUpdateItem(updatedItem);
+          });
     }
 
     function handleitemChange(e){

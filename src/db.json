@@ -33,10 +33,10 @@
     {
       "id": "4",
       "name": "Yoga Mat",
-      "price": 25.99,
+      "price": "12",
       "category": "Sports & Outdoors",
       "image": "https://i.pinimg.com/236x/b7/47/30/b74730eed36cc7a5c97c2220249c0fee.jpg",
-      "shortDescription": "Non-slip, thick yoga mat for comfort and stability.",
+      "shortDescription": "yogaa mat",
       "detailedDescription": "Enjoy your yoga practice with this extra-thick, non-slip mat. Designed for durability and comfort, it provides the perfect cushioning for all levels. Whether you’re doing yoga, pilates, or stretching, this mat supports your body while preventing slips and discomfort.",
       "highlights": [
         "Non-slip surface",
@@ -376,21 +376,6 @@
       ]
     },
     {
-      "id": "28",
-      "name": "Electric Toothbrush",
-      "price": 34.99,
-      "category": "Health & Personal Care",
-      "image": "https://i.pinimg.com/236x/08/ab/f3/08abf383c5692bb84a75339ad4933522.jpg",
-      "shortDescription": "Rechargeable electric toothbrush for better oral care.",
-      "detailedDescription": "Upgrade your oral hygiene with this rechargeable electric toothbrush. Featuring multiple brushing modes and a timer, it provides a thorough clean every time. The ergonomic handle and replaceable heads make it both comfortable and convenient to use.",
-      "highlights": [
-        "Rechargeable",
-        "Multiple brushing modes",
-        "Built-in timer",
-        "Replaceable heads"
-      ]
-    },
-    {
       "id": "29",
       "name": "Adjustable Laptop Stand",
       "price": 18.99,
@@ -403,21 +388,6 @@
         "Non-slip base",
         "Lightweight",
         "Ergonomic design"
-      ]
-    },
-    {
-      "id": "30",
-      "name": "Compact Mini Projector",
-      "price": 109.99,
-      "category": "Electronics",
-      "image": "https://i.pinimg.com/236x/99/b2/19/99b219de3f487ab09f6bbf1b137c7bc4.jpg",
-      "shortDescription": "Portable mini projector for home entertainment.",
-      "detailedDescription": "Turn any space into a home theater with this compact mini projector. Ideal for movies, gaming, or presentations, it provides bright, clear visuals in a portable size. Connects easily to most devices, making it versatile and perfect for travel.",
-      "highlights": [
-        "HD resolution",
-        "Portable design",
-        "Easy device connectivity",
-        "Remote control included"
       ]
     },
     {
