@@ -12,18 +12,21 @@ function Promo() {
         <h1>Sign up for Promo Deals!!</h1>
         <div className='login'>
           <form>
+            <label htmlFor="">Contact</label>
             <input
               type="tel"
               name="telephone"
               placeholder="Mobile number +254..."
             />{" "}
             <br /> <br />
+            <label htmlFor="">Email </label>
             <input
               type="email"
               name="email"
               placeholder="Enter a valid email"
             />{" "}
             <br /> <br />
+            <label htmlFor="">Adress </label>
             <input
               type="adress"
               name="adress"
