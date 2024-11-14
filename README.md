@@ -31,3 +31,9 @@ To get a local copy up and running, follow these steps.
 
 ### 3. Install dependencies
 `npm install`
+
+### 4. Start the development server
+`npm start`
+
+### 5. Start JSON Server
+`json-server --watch db.json`
