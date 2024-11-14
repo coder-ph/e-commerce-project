@@ -58,4 +58,16 @@ After completing the installation steps, you can:
 - ProductCard: Represents an individual product in the catalog.
 - ProductDetails: Shows detailed information for a selected product.
 
-#
+# Contributing
+Contributions are welcome! Follow these steps to contribute:
+### 1. Fork the repository.
+### 2. Create a new branch:
+
+`git checkout -b feature/YourFeature`
+### 3. Commit your changes:
+
+`git commit -m 'Add your feature`
+### 4. Push to the branch:
+
+`git push origin feature/YourFeature`
+Open a pull request.
