@@ -15,6 +15,7 @@ function Display() {
       <h2>Shopping Here May Lead to Impromptu Dance Parties!!</h2>
       <p>
         <img
+          className="navbar-light bg-light"
           src="src/assets/person_39dp_5985E1_FILL0_wght400_GRAD0_opsz40.svg"
           alt="shopping cart"
           width="42px"

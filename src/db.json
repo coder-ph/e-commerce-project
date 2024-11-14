@@ -301,21 +301,6 @@
       ]
     },
     {
-      "id": "22",
-      "name": "Stainless Steel Chef's Knife",
-      "price": 34.99,
-      "category": "Home & Kitchen",
-      "image": "https://i.pinimg.com/236x/26/5d/67/265d67daf92c02477cc12314f4580987.jpg",
-      "shortDescription": "Professional-grade stainless steel chef's knife.",
-      "detailedDescription": "Master your cooking with this high-quality chef's knife. Crafted from stainless steel with a razor-sharp blade, it’s perfect for slicing, chopping, and dicing. Ergonomically designed for comfort, it’s durable, easy to clean, and ideal for all your kitchen needs.",
-      "highlights": [
-        "Stainless steel",
-        "Razor-sharp blade",
-        "Ergonomic handle",
-        "Rust-resistant"
-      ]
-    },
-    {
       "id": "23",
       "name": "Wireless Charger Stand",
       "price": 22.99,
@@ -363,10 +348,10 @@
     {
       "id": "26",
       "name": "Electric Kettle",
-      "price": 29.99,
+      "price": "30",
       "category": "Home & Kitchen",
       "image": "https://i.pinimg.com/236x/b9/0d/b2/b90db219aa2a77decdb5206eb96b470f.jpg",
-      "shortDescription": "Fast-boiling electric kettle with auto-shutoff.",
+      "shortDescription": "Electric Kettle",
       "detailedDescription": "Boil water quickly and safely with this electric kettle. With a 1.7-liter capacity and automatic shutoff feature, it’s ideal for tea, coffee, and instant meals. The stainless steel design ensures durability, making it a great addition to any kitchen.",
       "highlights": [
         "1.7-liter capacity",
@@ -434,6 +419,26 @@
         "Easy device connectivity",
         "Remote control included"
       ]
+    },
+    {
+      "id": "9152",
+      "name": "Iphone 16",
+      "price": "1200",
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/87/8a/e9/878ae94814e475cc7b8537bce50aafde.jpg",
+      "shortDescription": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM",
+      "detailedDescription": "high spec phone",
+      "highlights": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM"
+    },
+    {
+      "id": "0864",
+      "name": "Samsung S24",
+      "price": "1280",
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/4b/97/08/4b97084eba29c7c10b3f60eadf05c238.jpg",
+      "shortDescription": "Samsung S24 ULTRA 5G 256GB",
+      "detailedDescription": "https://i.pinimg.com/236x/4b/97/08/4b97084eba29c7c10b3f60eadf05c238.jpg",
+      "highlights": "https://i.pinimg.com/236x/4b/97/08/4b97084eba29c7c10b3f60eadf05c238.jpg"
     }
   ]
 }

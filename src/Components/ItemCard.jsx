@@ -63,9 +63,9 @@ function ItemCard({onUpdateItem, name, price, image, sdescript, id, onDeleteItem
           required
         />
         <br></br>
-        <button className="shadow btn">Edit</button>
+        <button className=" btnn shadow btn">Edit</button>
       </form>{" "}
-      <button className="btn shadow" onClick={handleDelete}>
+      <button className="btnn btn shadow" onClick={handleDelete}>
         Delete
       </button>
     </div>
