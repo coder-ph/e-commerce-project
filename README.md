@@ -6,3 +6,10 @@ This e-commerce application is designed to showcase a range of products in a vis
 
 The main goal of this project is to provide a hands-on example of building an interactive and dynamic e-commerce website with React, including features like React Router for navigation, state management, and API integration for fetching product data.
 
+# Features
+Product Catalog: Displays a list of products in a 3-column grid layout.
+Product Details: Users can view detailed information for each product.
+Shopping Cart: Add products to the cart, update quantities, and remove items.
+Dark Mode Toggle: Users can switch between light and dark themes.
+Filter and Search: Allows filtering and searching products by category and name.
+Responsive Design: Fully responsive layout for mobile and desktop users.
