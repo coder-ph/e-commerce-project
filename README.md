@@ -36,8 +36,8 @@ To get a local copy up and running, follow these steps.
 `npm start`
 
 ### 5. Start JSON Server
-`json-server --watch db.json`
-This will start a RESTful API on `http://localhost`
+`json-server --watch db.json` 
+- This will start a RESTful API on `http://localhost`
 
 # Usage
 
@@ -47,3 +47,22 @@ After completing the installation steps, you can:
 - Browse through the products in a 3-column grid layout.
 - Click on any product to view detailed information.
 - Add items to the shopping cart and adjust quantities.
+
+# File Structure
+
+`e-commerce-react-app/
+├── public/
+│   ├── index.html
+│   └── ...
+├── src/
+│   ├── assets/           # Images, icons, and static assets
+│   ├── components/       # Reusable components (e.g., ProductCard, CartItem)
+│   ├── pages/            # Pages for routing (e.g., Home, ProductDetails)
+│   ├── data/             # Static or JSON data (if not using JSON server)
+│   ├── App.js            # Main app component
+│   ├── index.js          # App entry point
+│   ├── App.css           # Global styles
+│   └── ...
+└── README.md
+
+`
