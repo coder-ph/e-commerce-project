@@ -1,0 +1,444 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Wireless Bluetooth Earbuds",
+      "price": 49.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/36/03/d2/3603d235a764bdb40428173c81f1e156.jpg",
+      "shortDescription": "Compact and powerful wireless earbuds with clear sound.",
+      "detailedDescription": "Experience high-quality sound with these wireless Bluetooth earbuds. Perfect for commuting, workouts, or relaxing, they feature noise-canceling capabilities and a long-lasting battery. Designed to be comfortable and durable, they’re ideal for everyday use, and the portable charging case keeps you powered on the go.",
+      "highlights": [
+        "Bluetooth 5.0",
+        "Noise canceling",
+        "12-hour battery life",
+        "Water-resistant"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Smart LED Light Bulb",
+      "price": 12.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/bc/5c/c0/bc5cc09f01e4a9f5e020cf281a0bea37.jpg",
+      "shortDescription": "Smart bulb with adjustable colors and brightness.",
+      "detailedDescription": "Control your home lighting with ease using this smart LED light bulb. Compatible with most smart home systems, it allows you to adjust brightness and colors through an app or voice commands. Create the perfect ambiance for any room and save energy with its long-lasting design.",
+      "highlights": [
+        "16 million colors",
+        "Energy efficient",
+        "App controlled",
+        "Compatible with Alexa and Google Home"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Yoga Mat",
+      "price": 25.99,
+      "category": "Sports & Outdoors",
+      "image": "https://i.pinimg.com/236x/b7/47/30/b74730eed36cc7a5c97c2220249c0fee.jpg",
+      "shortDescription": "Non-slip, thick yoga mat for comfort and stability.",
+      "detailedDescription": "Enjoy your yoga practice with this extra-thick, non-slip mat. Designed for durability and comfort, it provides the perfect cushioning for all levels. Whether you’re doing yoga, pilates, or stretching, this mat supports your body while preventing slips and discomfort.",
+      "highlights": [
+        "Non-slip surface",
+        "Thick cushioning",
+        "Eco-friendly material",
+        "Lightweight and portable"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Portable Charger",
+      "price": 29.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/64/68/0f/64680f724bd445c97b06887bac8eece5.jpg",
+      "shortDescription": "High-capacity portable charger for on-the-go power.",
+      "detailedDescription": "Keep your devices powered with this compact and powerful portable charger. Equipped with multiple USB ports, it’s compatible with most devices and can charge your phone, tablet, or camera quickly and efficiently. Ideal for travel or everyday use, you’ll never worry about running out of battery again.",
+      "highlights": [
+        "10,000 mAh capacity",
+        "Dual USB ports",
+        "Compact design",
+        "Fast charging"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Ceramic Coffee Mug",
+      "price": 14.99,
+      "category": "Home & Kitchen",
+      "image": "https://i.pinimg.com/236x/20/d6/80/20d6801182f1fce952aeba01e50fc39d.jpg",
+      "shortDescription": "Durable, stylish ceramic coffee mug.",
+      "detailedDescription": "Start your day with this stylish ceramic coffee mug. It’s microwave and dishwasher safe, perfect for your morning coffee or tea. The comfortable handle and elegant design make it a pleasure to use and an attractive addition to any kitchen.",
+      "highlights": [
+        "12 oz",
+        "Microwave safe",
+        "Dishwasher safe",
+        "Comfort grip handle"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Gaming Mouse",
+      "price": 34.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/80/4f/9d/804f9d0b0e3e9853a617c02332169c30.jpg",
+      "shortDescription": "Precision gaming mouse with adjustable DPI settings.",
+      "detailedDescription": "Enhance your gaming experience with this precision gaming mouse. With customizable DPI settings and ergonomic design, it provides optimal control and comfort for long gaming sessions. The RGB lighting adds style, making it a perfect addition to any gaming setup.",
+      "highlights": [
+        "Adjustable DPI",
+        "Ergonomic design",
+        "RGB lighting",
+        "Wired connectivity"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Running Shoes",
+      "price": 59.99,
+      "category": "Sports & Outdoors",
+      "image": "https://i.pinimg.com/236x/37/a7/5a/37a75a8ff7fa97322ca4e04e80aefd60.jpg",
+      "shortDescription": "Lightweight and comfortable running shoes.",
+      "detailedDescription": "Run with confidence in these lightweight and comfortable running shoes. Designed with breathable material and excellent grip, they provide support for both beginners and advanced runners. Ideal for road and trail running, they combine style and performance to enhance your workout.",
+      "highlights": [
+        "Breathable material",
+        "Non-slip sole",
+        "Cushioned insole",
+        "Available in multiple sizes"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Cordless Drill",
+      "price": 89.99,
+      "category": "Home Improvement",
+      "image": "https://i.pinimg.com/236x/08/5c/67/085c6752d86eb5a2777230190914001e.jpg",
+      "shortDescription": "Powerful cordless drill with variable speed settings.",
+      "detailedDescription": "Tackle DIY projects with this powerful cordless drill. Featuring multiple speed settings and a rechargeable battery, it’s perfect for home improvement projects. The ergonomic design and included drill bits make it a versatile tool for all skill levels.",
+      "highlights": [
+        "Variable speed",
+        "Rechargeable battery",
+        "Includes drill bits",
+        "Ergonomic design"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Noise-Canceling Headphones",
+      "price": 99.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/28/83/b3/2883b364455aec7259ff2f084c92b97d.jpg",
+      "shortDescription": "High-quality headphones with noise-canceling technology.",
+      "detailedDescription": "Immerse yourself in music with these high-quality noise-canceling headphones. The over-ear design provides comfort for long listening sessions, and the advanced noise-canceling technology blocks out background noise, making them ideal for travel and study.",
+      "highlights": [
+        "Over-ear design",
+        "Noise-canceling",
+        "Long battery life",
+        "Comfortable padding"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Stainless Steel Cutlery Set",
+      "price": 24.99,
+      "category": "Home & Kitchen",
+      "image": "https://i.pinimg.com/236x/45/7e/d0/457ed0be4953d481e3ea659e8427c6d4.jpg",
+      "shortDescription": "Elegant stainless steel cutlery for everyday use.",
+      "detailedDescription": "Upgrade your dining experience with this elegant stainless steel cutlery set. Durable and stylish, this set is perfect for both daily use and special occasions. Dishwasher-safe and rust-resistant, it ensures long-lasting performance and adds a modern touch to your table setting.",
+      "highlights": [
+        "Dishwasher safe",
+        "Rust-resistant",
+        "12-piece set",
+        "Elegant design"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Smart Fitness Tracker",
+      "price": 39.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/da/5f/32/da5f32b19a0bc0ddc2bcc74966cdd568.jpg",
+      "shortDescription": "Monitor health stats with this sleek fitness tracker.",
+      "detailedDescription": "Stay on top of your health goals with this smart fitness tracker. Featuring step tracking, heart rate monitoring, and sleep analysis, it helps you track your progress. Water-resistant and lightweight, it’s ideal for active lifestyles and connects easily to your smartphone.",
+      "highlights": [
+        "Heart rate monitor",
+        "Step counter",
+        "Sleep tracking",
+        "Water-resistant"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Insulated Lunch Bag",
+      "price": 15.99,
+      "category": "Home & Kitchen",
+      "image": "https://i.pinimg.com/236x/3b/90/86/3b9086ca98cb30f9a2f14b9e572d3cd3.jpg",
+      "shortDescription": "Keep your meals fresh with this insulated lunch bag.",
+      "detailedDescription": "This insulated lunch bag keeps your food fresh and at the perfect temperature. Spacious and lightweight, it’s great for work, school, or travel. The easy-to-clean interior and sturdy zipper make it both practical and durable, so you can enjoy fresh meals anywhere.",
+      "highlights": [
+        "Thermal insulation",
+        "Spacious interior",
+        "Easy to clean",
+        "Portable"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Digital Kitchen Scale",
+      "price": 14.99,
+      "category": "Home & Kitchen",
+      "image": "https://i.pinimg.com/236x/8a/a4/29/8aa429997fa82134282676468277b9db.jpg",
+      "shortDescription": "Precision kitchen scale for accurate measurements.",
+      "detailedDescription": "Achieve perfect results in your cooking with this digital kitchen scale. Designed for accuracy, it measures ingredients in grams or ounces, making it ideal for baking or portion control. Compact and easy to use, it fits neatly in any kitchen space.",
+      "highlights": [
+        "High accuracy",
+        "Measures in grams/oz",
+        "Compact design",
+        "Easy to use"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Portable Camping Chair",
+      "price": 39.99,
+      "category": "Sports & Outdoors",
+      "image": "https://i.pinimg.com/236x/57/4e/59/574e5968d30aa9055582c84d424ea003.jpg",
+      "shortDescription": "Lightweight, foldable camping chair for outdoor use.",
+      "detailedDescription": "Relax in comfort with this portable camping chair. Lightweight and foldable, it’s perfect for camping, beach outings, or backyard gatherings. The durable frame supports up to 250 lbs, and the mesh back provides airflow, keeping you cool on hot days.",
+      "highlights": [
+        "Foldable",
+        "Durable frame",
+        "Mesh backrest",
+        "Supports up to 250 lbs"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Cast Iron Skillet",
+      "price": 29.99,
+      "category": "Home & Kitchen",
+      "image": "https://i.pinimg.com/236x/fe/62/c9/fe62c9c3cc5c813b3ff00d8672bd3ee4.jpg",
+      "shortDescription": "Versatile cast iron skillet for even cooking.",
+      "detailedDescription": "This pre-seasoned cast iron skillet is perfect for searing, sautéing, baking, and more. It heats evenly and retains heat well, making it ideal for a variety of cooking methods. Durable and easy to clean, it’s a kitchen staple for home chefs.",
+      "highlights": [
+        "Pre-seasoned",
+        "Even heat distribution",
+        "Oven safe",
+        "Durable build"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "LED Desk Lamp",
+      "price": 21.99,
+      "category": "Home & Office",
+      "image": "https://i.pinimg.com/236x/77/80/76/778076908fe6a3a4da72c9d347ed143c.jpg",
+      "shortDescription": "Adjustable LED desk lamp with multiple brightness levels.",
+      "detailedDescription": "Brighten your workspace with this adjustable LED desk lamp. Featuring multiple brightness levels and an adjustable neck, it’s ideal for reading or working. The energy-efficient LEDs provide natural lighting, reducing eye strain for prolonged tasks.",
+      "highlights": [
+        "Adjustable brightness",
+        "Energy-efficient LEDs",
+        "Flexible neck",
+        "Modern design"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Bluetooth Speaker",
+      "price": 29.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/e6/4c/77/e64c773a989c2abe7f546bb2924f6a07.jpg",
+      "shortDescription": "Portable Bluetooth speaker with rich sound.",
+      "detailedDescription": "Enjoy your favorite tunes anywhere with this portable Bluetooth speaker. Compact yet powerful, it delivers clear, rich sound and connects easily to your devices. With its water-resistant design, it’s perfect for outdoor adventures or indoor relaxation.",
+      "highlights": [
+        "Portable",
+        "Water-resistant",
+        "Rich sound",
+        "Bluetooth 5.0"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Adjustable Dumbbell Set",
+      "price": 49.99,
+      "category": "Sports & Outdoors",
+      "image": "https://i.pinimg.com/236x/ee/a9/3b/eea93bdb0c14cc8127588902bce6b93b.jpg",
+      "shortDescription": "Versatile dumbbell set with adjustable weights.",
+      "detailedDescription": "Stay fit at home with this adjustable dumbbell set. It allows for multiple weight configurations, making it suitable for a variety of exercises. Easy to assemble and store, it’s perfect for home workouts and strength training.",
+      "highlights": [
+        "Adjustable weights",
+        "Easy to store",
+        "Durable construction",
+        "Ergonomic grip"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Luxury Bath Towels",
+      "price": 24.99,
+      "category": "Home & Bath",
+      "image": "https://i.pinimg.com/236x/85/1a/c9/851ac97d9fe9f48b0482d72ea1a6945e.jpg",
+      "shortDescription": "Soft and absorbent luxury bath towels.",
+      "detailedDescription": "Pamper yourself with these soft, absorbent luxury bath towels. Made from high-quality cotton, they’re perfect for a spa-like experience at home. Machine washable and quick-drying, they add both comfort and style to your bathroom.",
+      "highlights": [
+        "100% cotton",
+        "Quick-drying",
+        "Machine washable",
+        "Soft and plush"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Organic Cotton Bed Sheets",
+      "price": 59.99,
+      "category": "Home & Bedroom",
+      "image": "https://i.pinimg.com/236x/46/f7/39/46f73911d734fb14f2662195ccf8d49b.jpg",
+      "shortDescription": "Soft, organic cotton bed sheets for ultimate comfort.",
+      "detailedDescription": "Upgrade your sleep experience with these organic cotton bed sheets. Breathable, hypoallergenic, and made from 100% organic cotton, they provide a luxurious and eco-friendly bedding option. Machine washable and durable, these sheets offer comfort and quality for years.",
+      "highlights": [
+        "100% organic cotton",
+        "Hypoallergenic",
+        "Machine washable",
+        "Breathable fabric"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Wireless Charger Stand",
+      "price": 22.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/1a/85/e0/1a85e0cb8fff82885a4f03388b1f603a.jpg",
+      "shortDescription": "Fast wireless charger stand for convenient charging.",
+      "detailedDescription": "Charge your phone with ease using this wireless charger stand. Designed for fast charging, it’s compatible with most smartphones and allows for vertical or horizontal positioning. The sleek design adds style to any space, making it perfect for bedside tables or desks.",
+      "highlights": [
+        "Fast charging",
+        "Vertical/horizontal positioning",
+        "Compact design",
+        "Universal compatibility"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Nonstick Frying Pan",
+      "price": 26.99,
+      "category": "Home & Kitchen",
+      "image": "https://i.pinimg.com/236x/a5/cf/e8/a5cfe88260584496a21626477c624486.jpg",
+      "shortDescription": "Durable nonstick frying pan with ergonomic handle.",
+      "detailedDescription": "Cook with ease using this nonstick frying pan, perfect for healthy cooking with minimal oil. The pan features an ergonomic handle and scratch-resistant coating for long-lasting use. Ideal for preparing eggs, pancakes, and stir-fries, it’s a kitchen essential for every home.",
+      "highlights": [
+        "Nonstick coating",
+        "Ergonomic handle",
+        "Scratch-resistant",
+        "Oven-safe up to 400°F"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Portable Air Purifier",
+      "price": 44.99,
+      "category": "Home & Appliances",
+      "image": "https://i.pinimg.com/236x/40/41/ee/4041eeed9d8a6946bf17d7d422648920.jpg",
+      "shortDescription": "Compact air purifier for cleaner indoor air.",
+      "detailedDescription": "Enjoy fresher, cleaner air with this compact air purifier. Perfect for small rooms, it filters out dust, allergens, and pollutants with ease. Quiet and energy-efficient, it’s ideal for bedrooms, offices, and personal spaces.",
+      "highlights": [
+        "HEPA filter",
+        "Quiet operation",
+        "Energy efficient",
+        "Portable size"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Electric Kettle",
+      "price": "30",
+      "category": "Home & Kitchen",
+      "image": "https://i.pinimg.com/236x/b9/0d/b2/b90db219aa2a77decdb5206eb96b470f.jpg",
+      "shortDescription": "Electric Kettle",
+      "detailedDescription": "Boil water quickly and safely with this electric kettle. With a 1.7-liter capacity and automatic shutoff feature, it’s ideal for tea, coffee, and instant meals. The stainless steel design ensures durability, making it a great addition to any kitchen.",
+      "highlights": [
+        "1.7-liter capacity",
+        "Auto-shutoff",
+        "Fast boiling",
+        "Stainless steel design"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Wireless Keyboard and Mouse Combo",
+      "price": 32.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/55/39/b1/5539b1d7023dd1fe3c4f62e4e0ae2655.jpg",
+      "shortDescription": "Convenient wireless keyboard and mouse for efficient work.",
+      "detailedDescription": "Enhance your productivity with this wireless keyboard and mouse combo. With a comfortable, ergonomic design and long battery life, it’s perfect for office or home use. The wireless setup reduces clutter and allows for easy use from a distance.",
+      "highlights": [
+        "Ergonomic design",
+        "Long battery life",
+        "2.4GHz wireless connection",
+        "Compact and portable"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Electric Toothbrush",
+      "price": 34.99,
+      "category": "Health & Personal Care",
+      "image": "https://i.pinimg.com/236x/08/ab/f3/08abf383c5692bb84a75339ad4933522.jpg",
+      "shortDescription": "Rechargeable electric toothbrush for better oral care.",
+      "detailedDescription": "Upgrade your oral hygiene with this rechargeable electric toothbrush. Featuring multiple brushing modes and a timer, it provides a thorough clean every time. The ergonomic handle and replaceable heads make it both comfortable and convenient to use.",
+      "highlights": [
+        "Rechargeable",
+        "Multiple brushing modes",
+        "Built-in timer",
+        "Replaceable heads"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Adjustable Laptop Stand",
+      "price": 18.99,
+      "category": "Home & Office",
+      "image": "https://i.pinimg.com/236x/95/fc/2f/95fc2fe2211bbba6bc64522663fe214a.jpg",
+      "shortDescription": "Portable and adjustable laptop stand for better posture.",
+      "detailedDescription": "Work comfortably with this adjustable laptop stand, designed to improve posture and reduce strain. Lightweight and portable, it’s ideal for home or office use. The non-slip base keeps your laptop secure, while the adjustable height ensures ergonomic positioning.",
+      "highlights": [
+        "Adjustable height",
+        "Non-slip base",
+        "Lightweight",
+        "Ergonomic design"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Compact Mini Projector",
+      "price": 109.99,
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/99/b2/19/99b219de3f487ab09f6bbf1b137c7bc4.jpg",
+      "shortDescription": "Portable mini projector for home entertainment.",
+      "detailedDescription": "Turn any space into a home theater with this compact mini projector. Ideal for movies, gaming, or presentations, it provides bright, clear visuals in a portable size. Connects easily to most devices, making it versatile and perfect for travel.",
+      "highlights": [
+        "HD resolution",
+        "Portable design",
+        "Easy device connectivity",
+        "Remote control included"
+      ]
+    },
+    {
+      "id": "9152",
+      "name": "Iphone 16",
+      "price": "1200",
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/87/8a/e9/878ae94814e475cc7b8537bce50aafde.jpg",
+      "shortDescription": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM",
+      "detailedDescription": "high spec phone",
+      "highlights": "128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM"
+    },
+    {
+      "id": "0864",
+      "name": "Samsung S24",
+      "price": "1280",
+      "category": "Electronics",
+      "image": "https://i.pinimg.com/236x/4b/97/08/4b97084eba29c7c10b3f60eadf05c238.jpg",
+      "shortDescription": "Samsung S24 ULTRA 5G 256GB",
+      "detailedDescription": "https://i.pinimg.com/236x/4b/97/08/4b97084eba29c7c10b3f60eadf05c238.jpg",
+      "highlights": "https://i.pinimg.com/236x/4b/97/08/4b97084eba29c7c10b3f60eadf05c238.jpg"
+    }
+  ]
+}
