@@ -80,4 +80,4 @@ Distributed under the *MIT* License. See LICENSE for more information.
 - 
 
 # LiveLink
-- [live link](https://e-commerce-project-three-gold.vercel.app/)
+- [E-commerce Platform](https://e-commerce-project-three-gold.vercel.app/)

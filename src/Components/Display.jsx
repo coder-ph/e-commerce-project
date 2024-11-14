@@ -15,7 +15,7 @@ function Display() {
       <h2>Shopping Here May Lead to Impromptu Dance Parties!!</h2>
       <p className="navbar-light bg-light">
         <img
-          src="src/assets/person_39dp_5985E1_FILL0_wght400_GRAD0_opsz40.svg"
+          src="../../src/assets/shopping_cart_checkout_24dp_5985E1_FILL0_wght400_GRAD0_opsz24.svg"
           alt="shopping cart"
           width="42px"
         />
@@ -23,7 +23,7 @@ function Display() {
       </p>
       <p className="navbar-light bg-light">
         <img
-          src="src/assets/shopping_cart_checkout_24dp_5985E1_FILL0_wght400_GRAD0_opsz24.svg"
+          src="../../src/assets/shopping_cart_checkout_24dp_5985E1_FILL0_wght400_GRAD0_opsz24.svg"
           alt="shopping cart"
           width="42px"
         />
@@ -31,7 +31,7 @@ function Display() {
       </p>
       <p className="navbar-light bg-light">
         <img
-          src="src/assets/help_39dp_5985E1_FILL0_wght400_GRAD0_opsz40.svg"
+          src="../../src/assets/help_39dp_5985E1_FILL0_wght400_GRAD0_opsz40.svg"
           alt="shopping cart"
           width="42px"
         />
