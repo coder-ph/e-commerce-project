@@ -19,3 +19,15 @@ The main goal of this project is to provide a hands-on example of building an in
 - JavaScript (ES6): Core language for building dynamic features.
 - CSS/Bootstrap: For styling and layout.
 - JSON Server : Simulates a backend to fetch product data.
+
+# Installation
+To get a local copy up and running, follow these steps.
+
+### 1. Clone the repository:
+`git clone https://github.com/your-username/e-commerce-project.git`
+
+### 2. Navigate to the project directory:
+`cd e-commerce-project`
+
+### 3. Install dependencies
+`npm install`
