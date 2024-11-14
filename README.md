@@ -50,19 +50,12 @@ After completing the installation steps, you can:
 
 # File Structure
 
-`e-commerce-react-app/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── assets/           # Images, icons, and static assets
-│   ├── components/       # Reusable components (e.g., ProductCard, CartItem)
-│   ├── pages/            # Pages for routing (e.g., Home, ProductDetails)
-│   ├── data/             # Static or JSON data (if not using JSON server)
-│   ├── App.js            # Main app component
-│   ├── index.js          # App entry point
-│   ├── App.css           # Global styles
-│   └── ...
-└── README.md
+# Components Overview
+- Components Overview
+- App: Main component that wraps the entire application.
+- Header: Contains navigation links, dark mode toggle, and cart icon.
+- ProductList: Displays products in a grid format.
+- ProductCard: Represents an individual product in the catalog.
+- ProductDetails: Shows detailed information for a selected product.
 
-`
+#
