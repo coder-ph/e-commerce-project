@@ -14,7 +14,7 @@ function Home() {
   
 
   useEffect(() => {
-    fetch("http://localhost:3000/items")
+    fetch("https://json-62e3.onrender.com/items")
       .then((r) => r.json())
       .then((items) => setItems(items));
   }, []);

@@ -12,10 +12,10 @@ function ItemDetails() {
 
     useEffect(
         ()=>{
-            fetch(`http://localhost:3000/items${itemId}`)
-            .then((r)=> r.json())
-            .then((data)=> SetItems(data))
-            .catch((error)=> console.log(error));
+            fetch(`https://json-62e3.onrender.com/items${itemId}`)
+              .then((r) => r.json())
+              .then((data) => SetItems(data))
+              .catch((error) => console.log(error));
         },[itemId]
     )
   return (

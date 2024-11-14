@@ -33,7 +33,7 @@ function ItemForm({ items, setItems, id }) {
       highlights: addItem.highlights,
     };
 
-    fetch("http://localhost:3000/items", {
+    fetch("https://json-62e3.onrender.com/items", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
