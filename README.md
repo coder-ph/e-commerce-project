@@ -37,3 +37,13 @@ To get a local copy up and running, follow these steps.
 
 ### 5. Start JSON Server
 `json-server --watch db.json`
+This will start a RESTful API on `http://localhost`
+
+# Usage
+
+After completing the installation steps, you can:
+
+- pen the app in the browser by navigating to http://localhost:3000.
+- Browse through the products in a 3-column grid layout.
+- Click on any product to view detailed information.
+- Add items to the shopping cart and adjust quantities.
