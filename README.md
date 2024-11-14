@@ -71,3 +71,6 @@ Contributions are welcome! Follow these steps to contribute:
 
 `git push origin feature/YourFeature`
 Open a pull request.
+
+# License
+Distributed under the *MIT* License. See LICENSE for more information.
